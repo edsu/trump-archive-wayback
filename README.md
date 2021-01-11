@@ -12,6 +12,11 @@ I had initially tried to discover the tweet ids by using the CDX API's
 all the results that are available. You can see this initial experimentation in
 [this Jupyter notebook].
 
+## Run
+
+    pip install -r requirements.txt
+    ./fetch.py
+
 [Trump Archive]: https://www.thetrumparchive.com/
 
 [Wayback Machine]: https://web.archive.org

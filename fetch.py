@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 
-"""
-Use the [Trump Archive] CSV export to look for snapshots in the Internet
-Archive's Wayback Machine. A separate JSON file for each tweet id is
-generated with the snapshots.
-"""
-
 import re
 import csv
 import json

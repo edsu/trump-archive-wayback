@@ -1,0 +1,24 @@
+[
+  {
+    "key": "com,twitter)/realdonaldtrump/status/1331749395214311427",
+    "timestamp": "2020-11-26 00:00:03+00:00",
+    "url": "https://twitter.com/realDonaldTrump/status/1331749395214311427",
+    "mime_type": "text/html",
+    "status_code": 404,
+    "digest": "JWHWWL2UJ54X4J3MNT6BSA5T32JE263P",
+    "length": 3217,
+    "raw_url": "http://web.archive.org/web/20201126000003id_/https://twitter.com/realDonaldTrump/status/1331749395214311427",
+    "view_url": "http://web.archive.org/web/20201126000003/https://twitter.com/realDonaldTrump/status/1331749395214311427"
+  },
+  {
+    "key": "com,twitter)/realdonaldtrump/status/1331749395214311427",
+    "timestamp": "2020-11-27 12:46:50+00:00",
+    "url": "https://twitter.com/realDonaldTrump/status/1331749395214311427",
+    "mime_type": "text/html",
+    "status_code": 404,
+    "digest": "LUHTB5OHETT4Z6NFGFGNVN3Z4BJ3EDHT",
+    "length": 3023,
+    "raw_url": "http://web.archive.org/web/20201127124650id_/https://twitter.com/realDonaldTrump/status/1331749395214311427",
+    "view_url": "http://web.archive.org/web/20201127124650/https://twitter.com/realDonaldTrump/status/1331749395214311427"
+  }
+]

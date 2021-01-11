@@ -7,10 +7,8 @@ is taken to only match tweet URLs while allowing for URLs that use various query
 parameters. The snapshots directory contains a JSON file for each tweet id which
 contains all the archival snapshots.
 
-I had initially tried to discover the tweet ids by using the CDX API's
-`matchType=prefix` functionality. But the CDX API didn't seem to be returning
-all the results that are available. You can see this initial experimentation in
-[this Jupyter notebook].
+For another approach see this [this Jupyter notebook] which uses the CDX API to
+fetch all the tweets independent of the Trump Archive database.
 
 ## Run
 

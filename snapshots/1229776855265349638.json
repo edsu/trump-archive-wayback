@@ -1,0 +1,79 @@
+[
+  {
+    "key": "com,twitter)/realdonaldtrump/status/1229776855265349638",
+    "timestamp": "2020-02-18 14:37:10+00:00",
+    "url": "http://twitter.com/realDonaldTrump/status/1229776855265349638",
+    "mime_type": "unk",
+    "status_code": 301,
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "length": 597,
+    "raw_url": "http://web.archive.org/web/20200218143710id_/http://twitter.com/realDonaldTrump/status/1229776855265349638",
+    "view_url": "http://web.archive.org/web/20200218143710/http://twitter.com/realDonaldTrump/status/1229776855265349638"
+  },
+  {
+    "key": "com,twitter)/realdonaldtrump/status/1229776855265349638",
+    "timestamp": "2020-02-18 14:37:10+00:00",
+    "url": "https://twitter.com/realDonaldTrump/status/1229776855265349638",
+    "mime_type": "text/html",
+    "status_code": 200,
+    "digest": "BJD77WZABX4OIMSDS7S4HAB7MPG6XULL",
+    "length": 66783,
+    "raw_url": "http://web.archive.org/web/20200218143710id_/https://twitter.com/realDonaldTrump/status/1229776855265349638",
+    "view_url": "http://web.archive.org/web/20200218143710/https://twitter.com/realDonaldTrump/status/1229776855265349638"
+  },
+  {
+    "key": "com,twitter)/realdonaldtrump/status/1229776855265349638",
+    "timestamp": "2020-02-18 14:37:10+00:00",
+    "url": "https://twitter.com/realDonaldTrump/status/1229776855265349638",
+    "mime_type": "text/html",
+    "status_code": 200,
+    "digest": "NIPHZGFIVZDKFSSV25REDGUX5LJAI3WX",
+    "length": 67156,
+    "raw_url": "http://web.archive.org/web/20200218143710id_/https://twitter.com/realDonaldTrump/status/1229776855265349638",
+    "view_url": "http://web.archive.org/web/20200218143710/https://twitter.com/realDonaldTrump/status/1229776855265349638"
+  },
+  {
+    "key": "com,twitter)/realdonaldtrump/status/1229776855265349638",
+    "timestamp": "2020-02-18 14:37:11+00:00",
+    "url": "https://twitter.com/realDonaldTrump/status/1229776855265349638",
+    "mime_type": "text/html",
+    "status_code": 200,
+    "digest": "GMCYPGIOHA74JT7U43AYNNKJIQGDVJTJ",
+    "length": 70032,
+    "raw_url": "http://web.archive.org/web/20200218143711id_/https://twitter.com/realDonaldTrump/status/1229776855265349638",
+    "view_url": "http://web.archive.org/web/20200218143711/https://twitter.com/realDonaldTrump/status/1229776855265349638"
+  },
+  {
+    "key": "com,twitter)/realdonaldtrump/status/1229776855265349638",
+    "timestamp": "2020-02-18 14:37:23+00:00",
+    "url": "https://twitter.com/realdonaldtrump/status/1229776855265349638",
+    "mime_type": "text/html",
+    "status_code": 200,
+    "digest": "7JOWORAPMFPGBL6LPF7SBAJZAZH6YNYY",
+    "length": 13367,
+    "raw_url": "http://web.archive.org/web/20200218143723id_/https://twitter.com/realdonaldtrump/status/1229776855265349638",
+    "view_url": "http://web.archive.org/web/20200218143723/https://twitter.com/realdonaldtrump/status/1229776855265349638"
+  },
+  {
+    "key": "com,twitter)/realdonaldtrump/status/1229776855265349638",
+    "timestamp": "2020-02-18 15:05:10+00:00",
+    "url": "https://twitter.com/realDonaldTrump/status/1229776855265349638",
+    "mime_type": "text/html",
+    "status_code": 200,
+    "digest": "DDWQSPXZEVICHYFXL7FCYHWJHYC6IFB6",
+    "length": 70803,
+    "raw_url": "http://web.archive.org/web/20200218150510id_/https://twitter.com/realDonaldTrump/status/1229776855265349638",
+    "view_url": "http://web.archive.org/web/20200218150510/https://twitter.com/realDonaldTrump/status/1229776855265349638"
+  },
+  {
+    "key": "com,twitter)/realdonaldtrump/status/1229776855265349638",
+    "timestamp": "2020-11-15 17:38:55+00:00",
+    "url": "https://twitter.com/realDonaldTrump/status/1229776855265349638",
+    "mime_type": "text/html",
+    "status_code": 404,
+    "digest": "LUHTB5OHETT4Z6NFGFGNVN3Z4BJ3EDHT",
+    "length": 3019,
+    "raw_url": "http://web.archive.org/web/20201115173855id_/https://twitter.com/realDonaldTrump/status/1229776855265349638",
+    "view_url": "http://web.archive.org/web/20201115173855/https://twitter.com/realDonaldTrump/status/1229776855265349638"
+  }
+]

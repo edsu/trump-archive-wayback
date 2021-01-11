@@ -1,0 +1,79 @@
+[
+  {
+    "key": "com,twitter)/realdonaldtrump/status/1149648078342803457",
+    "timestamp": "2019-07-12 11:54:01+00:00",
+    "url": "http://twitter.com/realDonaldTrump/status/1149648078342803457",
+    "mime_type": "unk",
+    "status_code": 301,
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "length": 453,
+    "raw_url": "http://web.archive.org/web/20190712115401id_/http://twitter.com/realDonaldTrump/status/1149648078342803457",
+    "view_url": "http://web.archive.org/web/20190712115401/http://twitter.com/realDonaldTrump/status/1149648078342803457"
+  },
+  {
+    "key": "com,twitter)/realdonaldtrump/status/1149648078342803457",
+    "timestamp": "2019-07-12 11:54:01+00:00",
+    "url": "https://twitter.com/realDonaldTrump/status/1149648078342803457",
+    "mime_type": "text/html",
+    "status_code": 302,
+    "digest": "TURVTRIIVFKXSW4C7WNIODLV3TVC7W4S",
+    "length": 1089,
+    "raw_url": "http://web.archive.org/web/20190712115401id_/https://twitter.com/realDonaldTrump/status/1149648078342803457",
+    "view_url": "http://web.archive.org/web/20190712115401/https://twitter.com/realDonaldTrump/status/1149648078342803457"
+  },
+  {
+    "key": "com,twitter)/realdonaldtrump/status/1149648078342803457",
+    "timestamp": "2019-07-12 11:54:01+00:00",
+    "url": "https://twitter.com/realDonaldTrump/status/1149648078342803457",
+    "mime_type": "text/html",
+    "status_code": 302,
+    "digest": "TURVTRIIVFKXSW4C7WNIODLV3TVC7W4S",
+    "length": 1102,
+    "raw_url": "http://web.archive.org/web/20190712115401id_/https://twitter.com/realDonaldTrump/status/1149648078342803457",
+    "view_url": "http://web.archive.org/web/20190712115401/https://twitter.com/realDonaldTrump/status/1149648078342803457"
+  },
+  {
+    "key": "com,twitter)/realdonaldtrump/status/1149648078342803457",
+    "timestamp": "2019-07-12 11:55:47+00:00",
+    "url": "https://twitter.com/realdonaldtrump/status/1149648078342803457",
+    "mime_type": "text/html",
+    "status_code": 302,
+    "digest": "TURVTRIIVFKXSW4C7WNIODLV3TVC7W4S",
+    "length": 1937,
+    "raw_url": "http://web.archive.org/web/20190712115547id_/https://twitter.com/realdonaldtrump/status/1149648078342803457",
+    "view_url": "http://web.archive.org/web/20190712115547/https://twitter.com/realdonaldtrump/status/1149648078342803457"
+  },
+  {
+    "key": "com,twitter)/realdonaldtrump/status/1149648078342803457",
+    "timestamp": "2019-07-20 04:29:15+00:00",
+    "url": "https://twitter.com/realDonaldTrump/status/1149648078342803457",
+    "mime_type": "text/html",
+    "status_code": 302,
+    "digest": "RSWBJFTBHSQDWJJQ3ER3S3TXI3WCNAHX",
+    "length": 2074,
+    "raw_url": "http://web.archive.org/web/20190720042915id_/https://twitter.com/realDonaldTrump/status/1149648078342803457",
+    "view_url": "http://web.archive.org/web/20190720042915/https://twitter.com/realDonaldTrump/status/1149648078342803457"
+  },
+  {
+    "key": "com,twitter)/realdonaldtrump/status/1149648078342803457",
+    "timestamp": "2020-11-07 23:25:40+00:00",
+    "url": "https://twitter.com/realDonaldTrump/status/1149648078342803457",
+    "mime_type": "text/html",
+    "status_code": 200,
+    "digest": "MSHG2ZKZESQ4AAAU527UC5A4HKPOWQPD",
+    "length": 12598,
+    "raw_url": "http://web.archive.org/web/20201107232540id_/https://twitter.com/realDonaldTrump/status/1149648078342803457",
+    "view_url": "http://web.archive.org/web/20201107232540/https://twitter.com/realDonaldTrump/status/1149648078342803457"
+  },
+  {
+    "key": "com,twitter)/realdonaldtrump/status/1149648078342803457",
+    "timestamp": "2020-11-15 15:39:09+00:00",
+    "url": "https://twitter.com/realDonaldTrump/status/1149648078342803457",
+    "mime_type": "text/html",
+    "status_code": 302,
+    "digest": "6ALZFKKMVFADY2U6KXV5DEOLI2PVWFX4",
+    "length": 2023,
+    "raw_url": "http://web.archive.org/web/20201115153909id_/https://twitter.com/realDonaldTrump/status/1149648078342803457",
+    "view_url": "http://web.archive.org/web/20201115153909/https://twitter.com/realDonaldTrump/status/1149648078342803457"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "key": "com,twitter)/realdonaldtrump/status/599344999411625984?lang=en",
+    "timestamp": "2015-08-09 17:02:59+00:00",
+    "url": "https://twitter.com/realDonaldTrump/status/599344999411625984?lang=en",
+    "mime_type": "text/html",
+    "status_code": 200,
+    "digest": "6DXXCLS7NJDBDDJYWE2676XDRIWEEP23",
+    "length": 26646,
+    "raw_url": "http://web.archive.org/web/20150809170259id_/https://twitter.com/realDonaldTrump/status/599344999411625984?lang=en",
+    "view_url": "http://web.archive.org/web/20150809170259/https://twitter.com/realDonaldTrump/status/599344999411625984?lang=en"
+  },
+  {
+    "key": "com,twitter)/realdonaldtrump/status/599344999411625984",
+    "timestamp": "2017-07-15 20:51:03+00:00",
+    "url": "https://twitter.com/realDonaldTrump/status/599344999411625984",
+    "mime_type": "text/html",
+    "status_code": 200,
+    "digest": "ZX7YFNTPH5JCW2ALYRFYHRX2WTERW5NY",
+    "length": 41817,
+    "raw_url": "http://web.archive.org/web/20170715205103id_/https://twitter.com/realDonaldTrump/status/599344999411625984",
+    "view_url": "http://web.archive.org/web/20170715205103/https://twitter.com/realDonaldTrump/status/599344999411625984"
+  },
+  {
+    "key": "com,twitter)/realdonaldtrump/status/599344999411625984",
+    "timestamp": "2018-04-11 16:25:05+00:00",
+    "url": "https://twitter.com/realDonaldTrump/status/599344999411625984",
+    "mime_type": "text/html",
+    "status_code": 200,
+    "digest": "KMPCV5RU7V66B6NPPFP4IKAMEF45LMGA",
+    "length": 47525,
+    "raw_url": "http://web.archive.org/web/20180411162505id_/https://twitter.com/realDonaldTrump/status/599344999411625984",
+    "view_url": "http://web.archive.org/web/20180411162505/https://twitter.com/realDonaldTrump/status/599344999411625984"
+  },
+  {
+    "key": "com,twitter)/realdonaldtrump/status/599344999411625984",
+    "timestamp": "2020-07-10 20:00:25+00:00",
+    "url": "https://twitter.com/realDonaldTrump/status/599344999411625984",
+    "mime_type": "text/html",
+    "status_code": 200,
+    "digest": "JDMUOPNXRYN6XRWVGK32RDYQGXCOILBK",
+    "length": 64727,
+    "raw_url": "http://web.archive.org/web/20200710200025id_/https://twitter.com/realDonaldTrump/status/599344999411625984",
+    "view_url": "http://web.archive.org/web/20200710200025/https://twitter.com/realDonaldTrump/status/599344999411625984"
+  },
+  {
+    "key": "com,twitter)/realdonaldtrump/status/599344999411625984",
+    "timestamp": "2020-11-06 09:37:51+00:00",
+    "url": "https://twitter.com/realDonaldTrump/status/599344999411625984",
+    "mime_type": "text/html",
+    "status_code": 200,
+    "digest": "ZOTKDAHMC4KU2353M5T572GGYR5FMDVH",
+    "length": 86100,
+    "raw_url": "http://web.archive.org/web/20201106093751id_/https://twitter.com/realDonaldTrump/status/599344999411625984",
+    "view_url": "http://web.archive.org/web/20201106093751/https://twitter.com/realDonaldTrump/status/599344999411625984"
+  }
+]

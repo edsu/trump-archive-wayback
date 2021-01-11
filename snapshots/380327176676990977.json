@@ -1,0 +1,90 @@
+[
+  {
+    "key": "com,twitter)/realdonaldtrump/status/380327176676990977",
+    "timestamp": "2017-07-15 12:26:56+00:00",
+    "url": "https://twitter.com/realDonaldTrump/status/380327176676990977",
+    "mime_type": "text/html",
+    "status_code": 200,
+    "digest": "QVU3GXSO4GEVTLLDAMDAGQW4FANU2YDT",
+    "length": 42616,
+    "raw_url": "http://web.archive.org/web/20170715122656id_/https://twitter.com/realDonaldTrump/status/380327176676990977",
+    "view_url": "http://web.archive.org/web/20170715122656/https://twitter.com/realDonaldTrump/status/380327176676990977"
+  },
+  {
+    "key": "com,twitter)/realdonaldtrump/status/380327176676990977",
+    "timestamp": "2018-04-11 17:50:28+00:00",
+    "url": "https://twitter.com/realDonaldTrump/status/380327176676990977",
+    "mime_type": "text/html",
+    "status_code": 200,
+    "digest": "SNO2BNN54J3HSRRG5L45LOU24QHCGUUY",
+    "length": 49323,
+    "raw_url": "http://web.archive.org/web/20180411175028id_/https://twitter.com/realDonaldTrump/status/380327176676990977",
+    "view_url": "http://web.archive.org/web/20180411175028/https://twitter.com/realDonaldTrump/status/380327176676990977"
+  },
+  {
+    "key": "com,twitter)/realdonaldtrump/status/380327176676990977?ref_src=twsrc^tfw",
+    "timestamp": "2019-06-17 13:56:19+00:00",
+    "url": "https://twitter.com/realDonaldTrump/status/380327176676990977?ref_src=twsrc%5Etfw",
+    "mime_type": "text/html",
+    "status_code": 200,
+    "digest": "JTTID52BE6CX6LGEQML4WF3QUVXZTHW5",
+    "length": 73269,
+    "raw_url": "http://web.archive.org/web/20190617135619id_/https://twitter.com/realDonaldTrump/status/380327176676990977?ref_src=twsrc%5Etfw",
+    "view_url": "http://web.archive.org/web/20190617135619/https://twitter.com/realDonaldTrump/status/380327176676990977?ref_src=twsrc%5Etfw"
+  },
+  {
+    "key": "com,twitter)/realdonaldtrump/status/380327176676990977",
+    "timestamp": "2020-07-10 19:18:45+00:00",
+    "url": "https://twitter.com/realDonaldTrump/status/380327176676990977",
+    "mime_type": "text/html",
+    "status_code": 200,
+    "digest": "5IZLSFP6LSYCPOSPIKURHPRWKJ4AZIOB",
+    "length": 65174,
+    "raw_url": "http://web.archive.org/web/20200710191845id_/https://twitter.com/realDonaldTrump/status/380327176676990977",
+    "view_url": "http://web.archive.org/web/20200710191845/https://twitter.com/realDonaldTrump/status/380327176676990977"
+  },
+  {
+    "key": "com,twitter)/realdonaldtrump/status/380327176676990977",
+    "timestamp": "2020-11-06 10:38:30+00:00",
+    "url": "https://twitter.com/realDonaldTrump/status/380327176676990977",
+    "mime_type": "text/html",
+    "status_code": 200,
+    "digest": "W5CKY6BORZJ5QMCF7H45VONG5ELJAKXU",
+    "length": 85456,
+    "raw_url": "http://web.archive.org/web/20201106103830id_/https://twitter.com/realDonaldTrump/status/380327176676990977",
+    "view_url": "http://web.archive.org/web/20201106103830/https://twitter.com/realDonaldTrump/status/380327176676990977"
+  },
+  {
+    "key": "com,twitter)/realdonaldtrump/status/380327176676990977?amp;ref_url=http://time.com/5109760/government-shutdown-donald-trump-tweets/&ref_src=twsrc^tfw",
+    "timestamp": "2020-11-09 01:04:49+00:00",
+    "url": "https://twitter.com/realDonaldTrump/status/380327176676990977?ref_src=twsrc%5Etfw&amp;ref_url=http%3A%2F%2Ftime.com%2F5109760%2Fgovernment-shutdown-donald-trump-tweets%2F",
+    "mime_type": "text/html",
+    "status_code": 200,
+    "digest": "NMNZAGCIYTERTQZGZWKOQFTFIAPLGOMZ",
+    "length": 12790,
+    "raw_url": "http://web.archive.org/web/20201109010449id_/https://twitter.com/realDonaldTrump/status/380327176676990977?ref_src=twsrc%5Etfw&amp;ref_url=http%3A%2F%2Ftime.com%2F5109760%2Fgovernment-shutdown-donald-trump-tweets%2F",
+    "view_url": "http://web.archive.org/web/20201109010449/https://twitter.com/realDonaldTrump/status/380327176676990977?ref_src=twsrc%5Etfw&amp;ref_url=http%3A%2F%2Ftime.com%2F5109760%2Fgovernment-shutdown-donald-trump-tweets%2F"
+  },
+  {
+    "key": "com,twitter)/realdonaldtrump/status/380327176676990977?ref_src=twsrc^tfw&ref_url=http://time.com/5109760/government-shutdown-donald-trump-tweets/",
+    "timestamp": "2020-11-09 02:23:25+00:00",
+    "url": "https://twitter.com/realDonaldTrump/status/380327176676990977?ref_src=twsrc%5Etfw&ref_url=http%3A%2F%2Ftime.com%2F5109760%2Fgovernment-shutdown-donald-trump-tweets%2F",
+    "mime_type": "text/html",
+    "status_code": 200,
+    "digest": "IHPFKGHA56YC5JR4ELDGV7BWAFJUMFCU",
+    "length": 12849,
+    "raw_url": "http://web.archive.org/web/20201109022325id_/https://twitter.com/realDonaldTrump/status/380327176676990977?ref_src=twsrc%5Etfw&ref_url=http%3A%2F%2Ftime.com%2F5109760%2Fgovernment-shutdown-donald-trump-tweets%2F",
+    "view_url": "http://web.archive.org/web/20201109022325/https://twitter.com/realDonaldTrump/status/380327176676990977?ref_src=twsrc%5Etfw&ref_url=http%3A%2F%2Ftime.com%2F5109760%2Fgovernment-shutdown-donald-trump-tweets%2F"
+  },
+  {
+    "key": "com,twitter)/realdonaldtrump/status/380327176676990977",
+    "timestamp": "2020-11-09 03:28:20+00:00",
+    "url": "https://twitter.com/realDonaldTrump/status/380327176676990977",
+    "mime_type": "text/html",
+    "status_code": 200,
+    "digest": "F7N7QCEKRPI3YAI7ABQVNK4BCPWO2L3P",
+    "length": 12660,
+    "raw_url": "http://web.archive.org/web/20201109032820id_/https://twitter.com/realDonaldTrump/status/380327176676990977",
+    "view_url": "http://web.archive.org/web/20201109032820/https://twitter.com/realDonaldTrump/status/380327176676990977"
+  }
+]
